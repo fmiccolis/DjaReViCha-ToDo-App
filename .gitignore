@@ -1,0 +1,9 @@
+.venv/
+.env/
+node_modules/
+package-lock.json
+.idea/
+db.sqlite3
+pycache/
+**/__pycache__
+dist/**
